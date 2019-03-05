@@ -1,4 +1,4 @@
-# Drishti Labs
+# Select Image Frames
 
 ## Prerequisits
 
