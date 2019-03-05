@@ -13,6 +13,9 @@ Clone the repo and install dependencies:
 git clone https://github.com/midhun-pk/drishti.git
 cd drishti
 npm install
+```
+If developing further:
+```
 cd client
 npm install
 ```
